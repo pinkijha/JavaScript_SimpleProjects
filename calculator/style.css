@@ -43,3 +43,7 @@ h1{
     box-shadow: 0 0 3rem rgba(2, 2, 2, 0.5);
     
 }
+input::placeholder{
+    color: #008b00;
+    
+}
