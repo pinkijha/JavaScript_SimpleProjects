@@ -20,6 +20,9 @@ h1{
     border-radius: .5rem;
     border: none;
     font-size:6vmin;
+    color: #008b00;
+    padding-left:10px ;
+    cursor: pointer;
 }
 .btn1{
     height: 10vh;
@@ -45,5 +48,7 @@ h1{
 }
 input::placeholder{
     color: #008b00;
+    padding-left: 10px;
+
     
 }
