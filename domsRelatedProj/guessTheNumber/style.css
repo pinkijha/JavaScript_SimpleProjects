@@ -1,0 +1,47 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(32, 31, 31);
+    text-align: center;
+}
+h3{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 15px;
+    margin-left: 5%;
+}
+.container{
+    background-color: transparent;
+    height: 380px;
+    width: 500px;
+    color: aliceblue;
+    margin-left: 35%;
+    padding: 40px;
+    border-radius: 10px;
+    border: 1px white solid;
+    box-shadow: 5px 5px 10px 5px rgb(218, 210, 210);
+}
+
+#btn{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: chartreuse;
+    padding: 8px;
+    border-radius: 10px;
+    font-size: 15px;
+    cursor: pointer;
+}
+p{
+    padding-top: 8px;
+}
+input{
+    height: 30px;
+    border-radius: 5px;
+    font-size: 17px;
+    padding: 5px;
+}
