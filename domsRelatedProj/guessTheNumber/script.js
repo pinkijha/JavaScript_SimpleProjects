@@ -101,10 +101,11 @@ function endGame(){
     playGame = false;
     newGame();
     }
+    
 
 function newGame(){
 const newGameButton = document.querySelector("#newGame");
-newGameButton.addEventListener("click", function(e){
+newGameButton.addEventListener('click', function(){
     randomNumber = parseInt(Math.random() * 100+1);
     preGuess = [];
     numGuess = 1;
